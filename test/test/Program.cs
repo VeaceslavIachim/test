@@ -11,10 +11,12 @@ namespace test
         static void Main(string[] args)
         {
             string FirstName = "Veaceslav";
+            string MentorName = "Marian";
             Console.WriteLine("Buna ziua");
             Console.WriteLine("{0}", FirstName);
             Console.WriteLine("Bine ati venit la Amdaris");
-            Console.WriteLine("Va uram mult succes");
-        }
+            Console.WriteLine("Mentorul dvs se numeste {0}", MentorName);
+
+         }
     }
 }
