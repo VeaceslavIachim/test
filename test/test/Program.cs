@@ -16,6 +16,8 @@ namespace test
             Console.WriteLine("salut");
             Console.WriteLine("Commit to branch");
             Console.WriteLine("Yout mentor's name is {0}", name);
+            Console.WriteLine("Eu sunt pe loc");
+            Console.WriteLine("Deja nu mai sunt");
 
         }   
     }
