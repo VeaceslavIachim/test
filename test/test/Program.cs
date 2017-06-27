@@ -13,6 +13,7 @@ namespace test
 
             Console.WriteLine("Buna ziua");
             Console.WriteLine("salut");
+            Console.WriteLine("Commit to branch");
         }   
     }
 }
