@@ -10,10 +10,13 @@ namespace test
     {
         static void Main(string[] args)
         {
+            string name = "Marian";
 
             Console.WriteLine("Buna ziua");
             Console.WriteLine("salut");
             Console.WriteLine("Commit to branch");
+            Console.WriteLine("Yout mentor's name is {0}", name);
+
         }   
     }
 }
