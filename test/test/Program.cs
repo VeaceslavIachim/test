@@ -11,7 +11,11 @@ namespace test
         static void Main(string[] args)
         {
 
+<<<<<<< HEAD
             Console.WriteLine("Buna ziua");
+=======
+
+>>>>>>> br1
         }   
     }
 }
