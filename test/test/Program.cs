@@ -10,7 +10,9 @@ namespace test
     {
         static void Main(string[] args)
         {
+            string FirstName = "Veaceslav";
             Console.WriteLine("Buna ziua");
+            Console.WriteLine("{0}", FirstName);
         }
     }
 }
