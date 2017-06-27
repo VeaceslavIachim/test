@@ -15,7 +15,7 @@ namespace test
             Console.WriteLine("Buna ziua");
             Console.WriteLine("{0}", FirstName);
             Console.WriteLine("Bine ati venit la Amdaris");
-                   
+            Console.WriteLine("Mentorul tau este {0}", MentorName);                   
          }
     }
 }
